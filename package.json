@@ -13,7 +13,7 @@
     "JavaScript"
   ],
   "author": "Hemant Bhandari",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@discordjs/builders": "^0.13.0",
     "@discordjs/rest": "^0.4.1",
